@@ -1,3 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- название приложения -->
     <string name="app_name">CalculationApp</string>
+
+    <!-- пункты навигации -->
+    <string name="menu_about">О приложении</string>
+
+    <!-- подпись в header -->
+    <string name="nav_header_subtitle">Автор – Бортников Игорь</string>
+
+    <!-- для DrawerToggle -->
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
 </resources>
