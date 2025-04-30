@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Стиль для кнопок калькулятора -->
+    <style name="CalcButton">
+        <!-- 0dp + вес делает кнопку равного размера в каждой ячейке -->
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="layout_rowWeight">1</item>
+        <item name="layout_columnWeight">1</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+</resources>
